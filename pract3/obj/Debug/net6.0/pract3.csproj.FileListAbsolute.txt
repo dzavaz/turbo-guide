@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\bin\Debug\net6.0\pract3.exe
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\bin\Debug\net6.0\pract3.deps.json
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\bin\Debug\net6.0\pract3.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\bin\Debug\net6.0\pract3.dll
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\bin\Debug\net6.0\pract3.pdb
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.dll
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\refint\pract3.dll
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.pdb
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\pract3.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\семинар 9\pract\pract3\obj\Debug\net6.0\ref\pract3.dll
